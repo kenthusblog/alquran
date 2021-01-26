@@ -57,6 +57,8 @@ document.addEventListener("DOMContentLoaded", function () {
                     surah();
                 } else if (page === "saved") {
                     ambilSurahTersimpan();
+                }else if (page === "about") {
+                    ambilSurahTersimpan();
                 }
 
 
